@@ -1,0 +1,17 @@
+h2 {
+    font-size: 60px;
+    margin-bottom: 30px;
+    padding-left: 38px;
+    font-family: 'Lobster', cursive;
+}
+
+section ul {
+  list-style: none;
+}
+
+@media screen and (max-width: 860px) {
+  main h2 {
+    margin-top: 20px;
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,28 @@
+article {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  
+  article img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  
+  p:first-of-type {
+    margin-top: 0;
+  }
+
+  @media screen and (max-width: 860px) {
+ 
+    p {
+      font-size: 14px;
+    }
+  }
