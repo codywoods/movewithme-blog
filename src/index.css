@@ -11,20 +11,15 @@ main {
 }
 
 .appContent {
-  margin: -20px; 
-
+  margin-top: -21px;
 }
+
 
 /* Styles for screens smaller than 768px (mobile devices) */
 @media screen and (max-width: 860px) {
   main {
     margin: 10px;
     padding: 0 10px;
-  }
-
-  .appContent {
-    margin: -20px; 
-
   }
    
   footer {
