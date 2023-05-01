@@ -16,7 +16,7 @@ export default function TopBar() {
                 </ul>
             </div>
             <div className='topRight'>
-                Contact
+                Contact / Donate
             </div>
         </div>
     );
