@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/movewithme-blog/static/css/main.69c6c780.css",
-    "main.js": "/movewithme-blog/static/js/main.c1799097.js",
+    "main.js": "/movewithme-blog/static/js/main.b5096bb7.js",
     "static/js/787.744be783.chunk.js": "/movewithme-blog/static/js/787.744be783.chunk.js",
     "index.html": "/movewithme-blog/index.html",
     "main.69c6c780.css.map": "/movewithme-blog/static/css/main.69c6c780.css.map",
-    "main.c1799097.js.map": "/movewithme-blog/static/js/main.c1799097.js.map",
+    "main.b5096bb7.js.map": "/movewithme-blog/static/js/main.b5096bb7.js.map",
     "787.744be783.chunk.js.map": "/movewithme-blog/static/js/787.744be783.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69c6c780.css",
-    "static/js/main.c1799097.js"
+    "static/js/main.b5096bb7.js"
   ]
 }
