@@ -8,6 +8,7 @@
     align-items: center;
     font-family: 'Lobster', cursive;
     font-size: 25px;
+    opacity: .8;
 }
 
 .topLeft {
@@ -22,6 +23,7 @@
 .topRight {
     flex: 3;
     text-align: center;
+    cursor: pointer;
 }
 
 .topList {
@@ -32,6 +34,7 @@
 
 .topListItem {
     margin: 10px;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 860px) {

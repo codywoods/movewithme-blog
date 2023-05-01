@@ -1,18 +1,30 @@
-header {
-    background-color: #333;
-    color: white;
-    padding: 50px;
-    text-align: left;
-  }
-  
-  h1 {
-    margin: 0;
-  }
+.header {
+  margin-top: 0;
+}
 
-  /* Styles for screens smaller than 768px (mobile devices) */
-@media screen and (max-width: 860px) {  
+.headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Lobster', cursive;
+  color: black;
+}
 
-  header {
-    padding: 10px;
-  }
+.headerTitleTop {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  font-size: 20px;
+}
+
+.headerTitleBottom {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  font-size: 110px;
+}
+
+.headerImage {
+  width: 100%;
+  height: 300px;
 }

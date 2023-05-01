@@ -11,7 +11,7 @@ export default function PostList(props) {
 
   return (
     <section>
-      <h2>Blog Posts</h2>
+      <h2>Recent Posts</h2>
       <ul>{postItems}</ul>
     </section>
   );
