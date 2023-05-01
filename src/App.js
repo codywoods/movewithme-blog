@@ -9,13 +9,15 @@ export default function App() {
   return (
     <div className='App'>
       <TopBar />
-      <Home />
+      <div className='appContent'>
+        <Home />
       
       
-      <main>
-        <PostList posts={data} />
-      </main>
-      <Footer />
+        <main>
+          <PostList posts={data} />
+        </main>
+        <Footer />
+      </div>
     </div>
   );
 };

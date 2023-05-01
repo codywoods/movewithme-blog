@@ -5,7 +5,7 @@ const data = [
       title: 'My First Blog Post',
       author: 'Art Shaftoe',
       content:
-        'This is my first attempt using React.js to create a personal blog page. Lets see how this turns out.',
+        "<p>This is my first attempt using React.js to create a personal blog page. Let's see how this turns out.</p>",
         date: 'April 29, 2023',
     },
     {

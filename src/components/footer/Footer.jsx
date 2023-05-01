@@ -1,7 +1,6 @@
-import React from 'react';
 import './footer.css';
 
-function Footer() {
+export default function Footer() {
   return (
     <footer>
       <h1>&copy; 2023 movewithme.mmt</h1>
@@ -9,6 +8,4 @@ function Footer() {
     
     </footer>
   );
-}
-
-export default Footer;
+};
